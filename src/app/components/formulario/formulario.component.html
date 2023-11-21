@@ -1,0 +1,16 @@
+<!-- <label for="nome">Nome</label>
+<input type="text" placeholder="Nome" id="nome" name="nome" [(ngModel)]="nome">
+<button (click)="setNome()">Clica vai</button>
+<p>Ols, {{nome}}!</p>  -->
+<hr>
+<h3>Formulario</h3>
+
+<form #formulario="ngForm" (ngSubmit)="onFormSubmit">
+    <label for="descricao">Descrição</label>
+    <input type="descricao" name="descricao" id="descricao" ngModel>
+    <br>
+    <label for="preco">Preco</label>
+    <input type="numer" name="preco" id="preco" ngModel>
+    <br>
+    <input type="submit" value="salvar">
+</form>

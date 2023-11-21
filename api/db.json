@@ -1,0 +1,39 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nome": "joseatt",
+      "limiteCredito": 2000
+    },
+    {
+      "id": 2,
+      "nome": "maria",
+      "limiteCredito": 2000
+    },
+    {
+      "id": 3,
+      "nome": "aaaaa",
+      "limiteCredito": 555
+    },
+    {
+      "id": 4,
+      "nome": "dfghjkjhgfdswq",
+      "limiteCredito": 48585
+    },
+    {
+      "nome": "maria",
+      "limiteCredito": 1500,
+      "id": 5
+    },
+    {
+      "nome": "jose",
+      "limiteCredito": 2000,
+      "id": 6
+    },
+    {
+      "nome": "bbbbbbbb",
+      "limiteCredito": 555,
+      "id": 7
+    }
+  ]
+}
